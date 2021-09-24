@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adetorera
+- 👋 Hi, I’m @Adebolu 
 - 👀 I’m interested in web & ios app development
 - 🌱 I’m currently learning computer science as well as courses on web and app development
 - 💞️ I’m looking to collaborate on app development
